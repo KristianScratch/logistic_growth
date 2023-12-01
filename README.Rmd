@@ -73,3 +73,8 @@ print(Comparing_Models_plot)
 
 ![plot](https://raw.githubusercontent.com/KristianScratch/logistic_growth/dev/Figures/Comparing_Models_PLOT.png)
 
+![plot](/cloud/project/Figures/Comparing_Models_PLOT.png)
+
+
+file.choose()
+

@@ -10,7 +10,7 @@ library(ggplot2)
 
 head(growth_data)
 
-#Plot the time against populaiton size to see the data
+#Plot the time against population size to see the data
 ggplot(aes(t,N), data = growth_data) +
   
   geom_point() +

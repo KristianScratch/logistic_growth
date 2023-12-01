@@ -72,5 +72,5 @@ print(Comparing_Models_plot)
 ```
 
 ![alt text](https://github.com/KristianScratch/logistic_growth/blob/dev/Figures/Comparing_Models_PLOT.png)
-
+![plot](https://github.com/KristianScratch/logistic_growth/blob/dev/Figures/Comparing_Models_PLOT.png)
 

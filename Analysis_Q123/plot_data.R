@@ -2,7 +2,7 @@
 
 #Add the data to the file window, and use file choose to read it in
 file.choose()
-growth_data <- read.csv("/cloud/project/experiment2.csv")
+growth_data <- read.csv("data/experiment2.csv")
 
 #Inastall required packages
 install.packages("ggplot2")

@@ -6,6 +6,10 @@ library(ragg)
 install.packages("ggplot2")
 library(ggplot2)
 
+# Makes. rue the data is read in
+
+growth_data <- read.csv("data/experiment2.csv")
+
 #First lets define all the useful parameters
 
 N0 <-  1916.90598679 
@@ -53,7 +57,7 @@ Comparing_Models_plot
 
 #Save this graph so It can be easily accessed in the Github Repository
 
-agg_png("Comparing_Models_PLOT.png", 
+agg_png("Figures/Comparing_Models_PLOT.png", 
         width   =  30, 
         height  =  40, 
         units   =  "cm", 

@@ -75,6 +75,6 @@ print(Comparing_Models_plot)
 
 ![plot](/cloud/project/Figures/Comparing_Models_PLOT.png)
 
+![plot](Figures/Comparing_Models_PLOT.png)
 
-file.choose()
 

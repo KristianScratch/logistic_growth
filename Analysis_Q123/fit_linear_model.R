@@ -3,7 +3,7 @@
 install.packages("dplyr")
 library(dplyr)
 
-growth_data <- read.csv("/cloud/project/experiment2.csv")
+growth_data <- read.csv("data/experiment2.csv")
 head(growth_data)
 
 #Case 1. K >> N0, t is small

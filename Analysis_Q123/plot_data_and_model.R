@@ -1,6 +1,6 @@
 #Script to plot data and model
 
-growth_data <- read.csv("/cloud/project/experiment2.csv")
+growth_data <- read.csv("data/experiment2.csv")
 
 #Custom Function to make a logistic model if we specify the NO, r, and K.
 

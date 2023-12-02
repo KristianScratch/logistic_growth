@@ -71,5 +71,7 @@ The code for comparing the Two models (exponential and logistic) can be found in
 print(Comparing_Models_plot)
 ```
 
+![Comparing_Models_PLOT](https://github.com/KristianScratch/logistic_growth/assets/150162503/45315f55-63a9-477d-8b40-58e6004199b3)
+
 
 

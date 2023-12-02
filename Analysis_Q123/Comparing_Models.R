@@ -37,7 +37,7 @@ Expo_fun <- function(t) {
 
 # Then Plot the original data with both models. 
   
-Comparing_Models_plot <- ggplot(aes(t,N), data = growth_data) +
+comparing_models_plot <- ggplot(aes(t,N), data = growth_data) +
   
   geom_function(fun=logistic_fun, colour="red") + #Include the Logistic model (red)
   
@@ -53,7 +53,7 @@ Comparing_Models_plot <- ggplot(aes(t,N), data = growth_data) +
   theme(legend.position="bottom") 
   
 #We can view it In R via:
-Comparing_Models_plot
+comparing_models_plot
 
 #Save this graph so It can be easily accessed in the Github Repository
 
@@ -64,7 +64,7 @@ agg_png("figures/Comparing_Models_PLOT.png",
         res     =  175, 
         scaling =  2.5)
 Comparing_Models_plot
-print(Comparing_Models_plot)
+print(comparing_models_plot)
 dev.off()
 
   

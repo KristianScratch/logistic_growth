@@ -31,3 +31,4 @@ ggplot(aes(t,log10(N)), data = growth_data) +
   ylab("y") +
   
   scale_y_continuous(trans='log10')
+

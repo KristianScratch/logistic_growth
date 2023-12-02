@@ -70,10 +70,19 @@ The code for comparing the Two models (exponential and logistic) can be found in
 #Attempt 1
 
 ![Logistic model](https://github.com/KristianScratch/logistic_growth/blob/main/Figures/Comparing_Models_PLOT.png)
+
 #Attempt 2
 
 <p align="center">
 <img src="https://github.com/KristianScratch/logistic_growth/blob/main/Figures/Comparing_Models_PLOT.png" width="500" height="400">
 </p>
 
+#Attempt 3
 
+![Logistic model](/cloud/project/Figures/Comparing_Models_PLOT.png)
+
+#Attempt 4
+
+<p align="center">
+<img src="/cloud/project/Figures/Comparing_Models_PLOT.png" width="500" height="400">
+</p>

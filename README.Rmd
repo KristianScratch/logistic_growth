@@ -86,3 +86,13 @@ The code for comparing the Two models (exponential and logistic) can be found in
 <p align="center">
 <img src="/cloud/project/Figures/Comparing_Models_PLOT.png" width="500" height="400">
 </p>
+
+#Attempt 5
+
+<p align="center">
+  <img src="Figures/Comparing_Models_PLOT.png" width="500" height="400">
+</p>
+
+#Attempt 6
+
+![Logistic model](Figures/Comparing_Models_PLOT.png)

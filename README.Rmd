@@ -67,10 +67,5 @@ Now we get 1e+09, which is carrying capacity. This makes biological sense lookin
 
 The code for comparing the Two models (exponential and logistic) can be found in "Analysis_Q123/Comparing_Models.R". We can also call it here:
 
-```{r}
-print(Comparing_Models_plot)
-```
-
-
 
 

@@ -57,7 +57,7 @@ Comparing_Models_plot
 
 #Save this graph so It can be easily accessed in the Github Repository
 
-agg_png("Figures/Comparing_Models_PLOT.png", 
+agg_png("figures/Comparing_Models_PLOT.png", 
         width   =  30, 
         height  =  40, 
         units   =  "cm", 
